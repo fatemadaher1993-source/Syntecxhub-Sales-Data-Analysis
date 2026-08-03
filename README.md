@@ -26,3 +26,5 @@ This project provides deep insights into company sales performance across variou
 ---
 ## 🖼️ Dashboard Preview
 ![Sales Dashboard Preview](https://raw.githubusercontent.com/fatemadaher1993-source/Syntecxhub-Sales-Data-Analysis/main/Screen%20Shot%202026-08-03%20at%2012.16.57.png)
+## 💡 Key Findings & Recommendations Preview
+![Key Findings Preview](https://raw.githubusercontent.com/fatemadaher1993-source/Syntecxhub-Sales-Data-Analysis/main/Screen%20Shot%202026-08-03%20at%2012.17.13.png)
