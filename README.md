@@ -24,6 +24,5 @@ This project provides deep insights into company sales performance across variou
 3. **Cost Reduction Strategy:** Negotiate better supplier terms for high-cost inventory items to push the profit margin into double digits (12-15%).
 
 ---
-
 ## 🖼️ Dashboard Preview
-![Sales Dashboard Preview]([اسم_الصورة.png](https://github.com/fatemadaher1993-source/Syntecxhub-Sales-Data-Analysis/blob/main/Screen%20Shot%202026-08-03%20at%2012.16.57.png))
+![Sales Dashboard Preview](https://raw.githubusercontent.com/fatemadaher1993-source/Syntecxhub-Sales-Data-Analysis/main/Screen%20Shot%202026-08-03%20at%2012.16.57.png)
